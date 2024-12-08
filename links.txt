@@ -1,0 +1,4 @@
+link para instalar o gameloop chinês: https://syzs.qq.com/
+
+
+link para colocar nas propriedades: -startpkg "com.activision.callofduty.shooter" -from DesktopLink
